@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "torque_control.h": "c",
+        "iohwab_loadsensor.h": "c",
+        "iohwab_motordriver.h": "c"
+    }
+}
